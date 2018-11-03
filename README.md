@@ -1,16 +1,34 @@
 # Flashcards
 
-## Lab 1
+## Lab 2
 
 ### App Description
-`TODO://` Add app description
+`TODO://` Users can now create their own flashcard by pressing the "+" button. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+## Required
+- [x] User can open the creation screen
+- [x] User can cancel out of the creation screen
+- [ ] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
+
+
+## Lab 1
+
+### App Description
+The users of the app can see a flashcard and flip the card to the other side by tapping the card.
+
+### App Walk-though
+
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
 
 ## Required
 - [x] Create New Project in Xcode
@@ -24,24 +42,4 @@
 - [ ] Add selectable multiple choice answers beneath the card
 
 
-## Lab 2
 
-### App Description
-`TODO://` Add app description
-
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
-## Required
-- [x] User can open the creation screen
-- [x] User can cancel out of the creation screen
-- [ ] User can enter a new question and answer in the creation screen to then show it on the flashcard
-- [x] Push code to GitHub
-## Optional
-- [ ] User gets an error if they try to create a new flashcard with no question or answer
-- [ ] User can edit existing flashcard
-- [ ] User can add multiple choice answers in the creation screen
