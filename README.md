@@ -7,12 +7,12 @@
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/a/Zetm5Ed" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen
-- [ ] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [X] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [x] Push code to GitHub
 ## Optional
 - [ ] User gets an error if they try to create a new flashcard with no question or answer
@@ -25,10 +25,6 @@
 ### App Description
 The users of the app can see a flashcard and flip the card to the other side by tapping the card.
 
-### App Walk-though
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
 
 ## Required
 - [x] Create New Project in Xcode
@@ -37,7 +33,7 @@ The users of the app can see a flashcard and flip the card to the other side by 
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
 ## Optional
-- [ ] Toggle the flashcard between the question side and the answer side
+- [x] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
 
