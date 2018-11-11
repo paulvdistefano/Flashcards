@@ -3,13 +3,10 @@
 ## Lab 3
 
 ### App Description
-`TODO://` The users now have the ability to page through their different flashcards and save their cards for later use. 
+The users now have the ability to page through their different flashcards and save their cards for later use. 
 
 ### App Walk-though
-`TODO://` 
 <img src="https://imgur.com/gallery/A9WEFiBE" width=200><br>
-
-`TODO://` 
 
 ## Required
 - [x] User can browse through multiple flashcards
@@ -23,7 +20,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Users can now create their own flashcard by pressing the "+" button. 
+Users can now create their own flashcard by pressing the "+" button. 
 
 ### App Walk-though
 
