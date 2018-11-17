@@ -6,7 +6,7 @@
 The users now have the ability to page through their different flashcards and save their cards for later use. 
 
 ### App Walk-though
-<img src="https://imgur.com/gallery/A9WEFiBE" width=200><br>
+<gif src="https://imgur.com/gallery/A9WEFiBE" width=200><br>
 
 ## Required
 - [x] User can browse through multiple flashcards
@@ -24,7 +24,7 @@ Users can now create their own flashcard by pressing the "+" button.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/Zetm5Ed" width=200><br>
+<gif src="https://imgur.com/a/Zetm5Ed" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
